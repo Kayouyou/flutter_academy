@@ -11,7 +11,7 @@ class Header extends StatelessWidget {
       decoration: BoxDecoration(
         color: Colors.grey.shade100,
         image: DecorationImage(
-          image: AssetImage(Assets.instructor),
+          image: const AssetImage(Assets.instructor),
           fit: BoxFit.cover,
           colorFilter: ColorFilter.mode(
             Colors.black.withOpacity(0.7),
