@@ -1,0 +1,9 @@
+# flutter.yaml
+
+name: my_flutter_web_app
+description: My Flutter web app
+version: 1.0.0
+
+build:
+  # 指定应用程序输出文件夹
+  output: build/web
