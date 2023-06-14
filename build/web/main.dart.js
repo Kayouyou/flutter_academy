@@ -63299,7 +63299,7 @@ s.mF()
 s.uR()},
 $S:0}
 A.Co.prototype={
-K(a){var s=null,r="/images/course.png",q="/images/instructor.png",p=t.p
+K(a){var s=null,r="/images/course.png",q="assets/images/instructor.png",p=t.p
 p=A.nY(A.a([new A.mr(s),B.yQ,B.ut,new A.dR(B.yk,A.bY("Recent Courses",A.ad(a).p3.c),s),B.c3,A.fo(s,A.nY(A.a([B.d6,new A.qK(r,"Taking Flutter to Web",new A.TM(),"Flutter web is stable. But there are no propercourses focused on Flutter web. So, in this course we will learn what Flutter web is good for and we will build a production grade application along the way.",s),B.d6,new A.qK(r,"Flutter for Everyone",new A.TN(),"Flutter beginners' course for everyone. For those who know basic programming, can easily start developing Flutter apps after taking this course.",s)],p),s,B.ah),s,s,450,s,s,s),A.n7(A.a8Y("Become an instructor","Instructors from around the world teach millions of students on Udemy. We provide the tools and skills to teach what you love.",q,!0,new A.TO(),"Start teaching today"),s,s),A.n7(A.a8Y("Start learning","Education changes your life beyond your imagination. Education enables you to achieve your dreams.",q,!1,new A.TP(),"Transform your life through education"),s,s),new A.zK(s),A.n7(A.a8Y("Browse","Know your instructors. We have chosen the best of them to give you highest quality courses.",q,!1,new A.TQ(),"Know your instructors"),s,s),new A.C7(s)],p),B.ff,B.U)
 return A.uw(s,p,A.bP(a,s,t.w).w.a.a>768?s:new A.lc(s))}}
 A.TM.prototype={
@@ -65579,7 +65579,7 @@ B.vl=new A.mV(2,"paused")
 B.vm=new A.mV(3,"detached")
 B.eN=new A.qh(0,"polite")
 B.eO=new A.qh(1,"assertive")
-B.vn=new A.mY("/images/instructor.png",null,null)
+B.vn=new A.mY("assets/images/instructor.png",null,null)
 B.r=new A.n_(0,"up")
 B.a4=new A.n_(1,"right")
 B.q=new A.n_(2,"down")
